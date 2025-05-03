@@ -31,6 +31,15 @@ The dataset is structured as a **CSV** file, making it easy to manipulate and an
 - 🤖 **Build** a predictive model to estimate math scores based on input features.
 - 📊 **Visualize** data relationships and trends for better understanding and presentation.
 
+
+## 🖼️ Student Interface Preview
+Here is a snapshot of the project interface:
+
+![Student Interface](Snaps/Student_interface.png)
+
+*Figure: Sample UI showing student data input and predicted performance.*
+
+
 ## 🚀 How to Use
 1. **Clone the repository**:
    ```bash
